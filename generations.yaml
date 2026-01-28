@@ -1,0 +1,31 @@
+references:
+  - "https://en.wikipedia.org/wiki/Mercedes-AMG_GT"
+
+generations:
+  - name: "First Generation (C190/R190)"
+    start_year: 2015
+    end_year: 2023
+    description: "First generation Mercedes-AMG GT sports car featuring the Transaxle Spaceframe platform. Available as coupe (C190) and roadster (R190). Powered by a 4.0L M178 twin-turbocharged V8 engine in 'hot inside V' configuration. The platform was an upgraded and shortened version of the SLS AMG's Transaxle Spaceframe, with 93% aluminum construction."
+    platform: "Mercedes-AMG Transaxle Spaceframe"
+    layout: "Front mid-engine, rear-wheel-drive"
+
+  - name: "First Generation (C190/R190) - 2017 Facelift"
+    start_year: 2017
+    end_year: 2021
+    description: "Facelift update introduced in 2017 with new GT C variant, GT R high-performance model, and Edition 50 limited edition. Key improvements include increased power output from the M178 engine for GT and GT S variants (10 kW and 9 kW respectively) and the inclusion of the 'Panamericana' grille from the GT3, GT4 and GT R variants as standard equipment for all variants."
+    platform: "Mercedes-AMG Transaxle Spaceframe"
+    layout: "Front mid-engine, rear-wheel-drive"
+
+  - name: "First Generation (C190/R190) - 2020 Facelift"
+    start_year: 2020
+    end_year: 2023
+    description: "Second facelift introduced in 2020 with updated power output for GT S Coupe and Roadster. The model years continued through 2023, including special editions like the AMG GT Black Series (2021-2023) and AMG GT Track Series (2022-present). The Black Series featured a modified M178 LS2 engine with flat-plane crankshaft outputting 720 hp."
+    platform: "Mercedes-AMG Transaxle Spaceframe"
+    layout: "Front mid-engine, rear-wheel-drive"
+
+  - name: "Second Generation (C192)"
+    start_year: 2023
+    end_year: null
+    description: "Second generation AMG GT unveiled at Pebble Beach Concours d'Elegance on August 19, 2023. Shares the MSA platform with the new Mercedes-AMG SL-Class (R232). Offered as a 2-door 2+2 liftback/fastback coupe. At launch, powered by 4.0L V8 in GT 55 and GT 63 variants with four-wheel drive. In 2024, added GT 43 (2.0L 4-cylinder mild hybrid RWD) and GT 63 S E Performance (plug-in hybrid V8 AWD). All variants use a 9-speed AMG Speedshift MCT automatic transmission."
+    platform: "MSA (Modular Sports Architecture)"
+    layout: "Front-engine, rear-wheel-drive or all-wheel-drive (4MATIC+)"
